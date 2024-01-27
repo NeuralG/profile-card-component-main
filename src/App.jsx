@@ -21,7 +21,7 @@ function UpperCard() {
 			<div className="flex h-full w-full justify-center rounded-2xl bg-[url(./images/bg-pattern-card.svg)] bg-top bg-no-repeat">
 				<img
 					className="img-border mt-auto rounded-full"
-					src="./src/images/image-victor.jpg"
+					src="https://raw.githubusercontent.com/NeuralG/profile-card-component-main/main/src/images/image-victor.jpg"
 				></img>
 			</div>
 
